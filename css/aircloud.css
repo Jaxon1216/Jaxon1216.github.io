@@ -127,7 +127,7 @@ body {
   height: 100px;
 }
 .nav .avatar-name .radius img {
-  border-radius: 50%;
+  border-radius: 10px;
 }
 .nav .avatar-name .name {
   margin-top: 10px;
